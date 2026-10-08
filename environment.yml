@@ -1,0 +1,16 @@
+# Data Analysis in Python (MSc Economic Analytics II, winter 2026/27)
+# Create:   conda env create -f environment.yml
+# Activate: conda activate daip
+name: daip
+channels:
+  - conda-forge
+dependencies:
+  - python>=3.11
+  - numpy
+  - pandas
+  - matplotlib
+  - seaborn
+  - scipy
+  - statsmodels
+  - scikit-learn
+  - jupyterlab

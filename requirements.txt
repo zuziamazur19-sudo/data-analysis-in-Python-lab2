@@ -1,0 +1,10 @@
+# Data Analysis in Python (MSc Economic Analytics II, winter 2026/27)
+# pip install -r requirements.txt   (inside a venv: python -m venv daip && source daip/bin/activate)
+numpy
+pandas
+matplotlib
+seaborn
+scipy
+statsmodels
+scikit-learn
+jupyterlab
